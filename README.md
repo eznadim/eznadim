@@ -15,7 +15,7 @@
 
 ### Frameworks:
 | Node JS | Sass | ABP | .Net | Angular | React | Vue |
-|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="55" height="55"/>  | <img src="https://cdn.worldvectorlogo.com/logos/abp-framework.svg" alt="abp" width="55" height="55"> | <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" alt="dotnet" width="55" height="55"> | <img src ="https://www.svgrepo.com/show/439061/angular.svg" alt="angular" width="55" height="55"> | <img src ="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="angular" width="55" height="55"> | <img src ="https://banner2.cleanpng.com/20180407/qcq/avgrt7wvz.webp" alt="angular" width="55" height="55"> 
 
 ### Databases / Data Manipulation:
